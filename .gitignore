@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+ayarlar.json
+*.mp4
+*.mov
+*.mkv
+*.wav
+Dikey_*/
+studio_log.txt
+studio_hata.log
+fonts/user/
